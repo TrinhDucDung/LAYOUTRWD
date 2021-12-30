@@ -1,0 +1,73 @@
+.head {
+    width: 100%;
+    height: 50px;
+    background: #222222;
+}
+.head-left {
+    color: white;
+    line-height: 50px;
+    margin-left: 20px;
+    text-align: center;
+    float: left;
+}
+.head-right {
+    color: white;
+    line-height: 50px;
+    margin-left: 20px;
+    float: right;
+    text-align: center;
+}
+.content {
+    height: 500px;
+    clear: both;
+}
+.col-1 {
+    width: 20%;
+    height: 500px;
+    background: #F1F1F1;
+    float: left;
+}
+.link {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    color: blue;
+}
+.col-2 {
+    width: 60%;
+    height: 500px;
+    background: white;
+    float: left;
+}
+.top {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bottom {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.col-3 {
+    width: 20%;
+    height: 500px;
+    background: #F1F1F1;
+    float: left;
+}
+.ads {
+    border: 1px solid;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer {
+    width: 100%;
+    background: #555555;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}   
